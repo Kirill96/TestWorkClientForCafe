@@ -1,0 +1,6 @@
+framework module Pods_TestWorkClientForCafe {
+  umbrella header "Pods-TestWorkClientForCafe-umbrella.h"
+
+  export *
+  module * { export * }
+}
